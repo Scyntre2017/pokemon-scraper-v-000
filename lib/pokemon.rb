@@ -1,6 +1,6 @@
 class Pokemon
 
-  def initialize(id = 1, name, type = nil, db = @db)
+  def initialize(name)
   end
 
 end
