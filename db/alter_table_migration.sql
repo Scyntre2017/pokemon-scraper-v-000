@@ -1,1 +1,2 @@
-INSERT INTO pokemon (hp = 60)
+ALTER TABLE pokemon
+ADD hp INTEGER;
